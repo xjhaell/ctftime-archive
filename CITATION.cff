@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "CTFtime Archive Dataset: 2015-2025"
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: Jimenez
+    given-names: Jhaell
+    affiliation: University of Nevada, Las Vegas
+url: "https://github.com/xjhaell/ctftime-archive"
+date-released: 2026-02-14
+license: MIT
+keywords:
+  - ctf
+  - capture-the-flag
+  - cybersecurity
+  - ctftime
+  - dataset

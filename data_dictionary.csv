@@ -1,0 +1,29 @@
+Variable,Type,Description
+event_id,numeric,Unique event identifier from CTFtime
+name,character,Event name
+year,numeric,Year of event
+start_date,Date,Start date (YYYY-MM-DD)
+end_date,Date,End date (YYYY-MM-DD)
+start_datetime,POSIXct,Start datetime
+end_datetime,POSIXct,End datetime
+duration_hours,numeric,Duration in hours
+duration_days,numeric,Duration in days
+start_month,numeric,Start month (1-12)
+start_quarter,factor,Start quarter (Q1-Q4)
+start_day_of_week,factor,Day of week event started
+is_weekend,logical,Whether event started on weekend (Fri/Sat/Sun)
+season,factor,Meteorological season
+covid_era,factor,COVID era category
+format,factor,Competition format type
+location,factor,Event location type
+weight,numeric,CTFtime weight rating (0-100)
+is_multi_day,logical,Whether event is multi-day (>24 hours)
+duration_category,factor,Duration category (Short/Medium/Long)
+weight_category,factor,Weight category (Zero/Low/Medium/High)
+is_qualifier,logical,Whether event name suggests qualifier
+is_finals,logical,Whether event name suggests finals
+is_prequalified,logical,Whether event requires prequalification
+year_index,numeric,Year index (0 = 2015)
+event_sequence_in_year,numeric,Sequential event number within year
+date_raw,character,Raw date string from CTFtime
+notes,character,Additional notes from CTFtime
