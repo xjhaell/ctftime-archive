@@ -2136,45 +2136,45 @@ event_id,name,year,date_raw,format,location,weight,notes
 2135,Null CTF 2025,2025,"05 Dec., 07:00 PST — 07 Dec. 2025, 07:00 PST",Jeopardy,Online,25,N/A
 2136,P3rf3ctr00t CTF 2025,2025,"05 Dec., 07:00 PST — 07 Dec. 2025, 07:00 PST",Jeopardy,Online,24.4,N/A
 2137,Metared Argentina 2025,2025,"04 Dec., 04:00 PST — 05 Dec. 2025, 04:00 PST",Jeopardy,Online,0,N/A
-2138,BlackHat MEA CTF Final 2025,2025,"02 Dec., 00:00 PST — 04 Dec. 2025, 07:00 PST",Jeopardy,In-person,22.5,Prequalified teams only
+2138,BlackHat MEA CTF Final 2025,2025,"02 Dec., 00:00 PST — 04 Dec. 2025, 07:00 PST",Jeopardy,On-site,22.5,Prequalified teams only
 2139,Advent of CTF 2025,2025,"01 Dec., 17:00 PST — 31 Dec. 2025, 20:59 PST",Jeopardy,Online,0,N/A
 2140,m0leCon 2026 Beginner CTF,2025,"29 Nov., 05:00 PST — 29 Nov. 2025, 10:00 PST",Jeopardy,Online,0,N/A
 2141,Haix-la-Chapelle 2025,2025,"29 Nov., 01:00 PST — 30 Nov. 2025, 01:00 PST",Jeopardy,Online,24.07,N/A
-2142,WP CTF 2025,2025,"29 Nov., 00:00 PST — 29 Nov. 2025, 08:00 PST",Jeopardy,In-person,0,N/A
+2142,WP CTF 2025,2025,"29 Nov., 00:00 PST — 29 Nov. 2025, 08:00 PST",Jeopardy,On-site,0,N/A
 2143,HeroCTF v7,2025,"28 Nov., 12:00 PST — 30 Nov. 2025, 14:00 PST",Jeopardy,Online,65,N/A
 2144,LakeCTF Quals 25-26,2025,"28 Nov., 10:00 PST — 29 Nov. 2025, 10:00 PST",Jeopardy,Online,45,N/A
-2145,2025 Qiangwang Challenge on Cyber Mimic Defense Finals,2025,"25 Nov., 20:00 PST — 28 Nov. 2025, 20:00 PST",Jeopardy,In-person,25,N/A
+2145,2025 Qiangwang Challenge on Cyber Mimic Defense Finals,2025,"25 Nov., 20:00 PST — 28 Nov. 2025, 20:00 PST",Jeopardy,On-site,25,N/A
 2146,Infosec University Hackathon 2025,2025,"22 Nov., 18:00 PST — 22 Nov. 2025, 23:00 PST",Jeopardy,Online,0,N/A
 2147,GlacierCTF 2025,2025,"22 Nov., 10:00 PST — 23 Nov. 2025, 10:00 PST",Jeopardy,Online,52.57,N/A
-2148,CyberSci Regional Qualifiers 2025-26,2025,"22 Nov., 07:00 PST — 22 Nov. 2025, 14:00 PST",Jeopardy,In-person,25,N/A
+2148,CyberSci Regional Qualifiers 2025-26,2025,"22 Nov., 07:00 PST — 22 Nov. 2025, 14:00 PST",Jeopardy,On-site,25,N/A
 2149,CTFZone 2025 Final,2025,"22 Nov., 01:00 PST — 22 Nov. 2025, 09:00 PST",Attack-Defense,Online,96.9,N/A
 2150,sknbCTF 2025,2025,"21 Nov., 19:00 PST — 22 Nov. 2025, 19:00 PST",Jeopardy,Online,24.68,N/A
 2151,PatriotCTF 2025,2025,"21 Nov., 10:00 PST — 23 Nov. 2025, 10:00 PST",Jeopardy,Online,42.42,N/A
 2152,MetaCTF November 2025 Flash CTF,2025,"20 Nov., 14:00 PST — 20 Nov. 2025, 16:00 PST",Jeopardy,Online,0,N/A
-2153,Hardwear.io NL 2025 Hardware CTF,2025,"20 Nov., 01:00 PST — 21 Nov. 2025, 04:50 PST",Jeopardy,In-person,0,N/A
-2154,snakeCTF 2025 Finals,2025,"20 Nov., 00:00 PST — 23 Nov. 2025, 05:00 PST",Jeopardy,In-person,21,N/A
+2153,Hardwear.io NL 2025 Hardware CTF,2025,"20 Nov., 01:00 PST — 21 Nov. 2025, 04:50 PST",Jeopardy,On-site,0,N/A
+2154,snakeCTF 2025 Finals,2025,"20 Nov., 00:00 PST — 23 Nov. 2025, 05:00 PST",Jeopardy,On-site,21,N/A
 2155,Ukrainian National CTF,2025,"19 Nov., 16:00 PST — 30 Nov. 2025, 16:00 PST",Hack-Quest,Online,0,N/A
 2156,M*CTF 2025 Quals,2025,"16 Nov., 01:00 PST — 17 Nov. 2025, 01:00 PST",Jeopardy,Online,45.64,N/A
 2157,PwnSec CTF 2025,2025,"15 Nov., 07:00 PST — 16 Nov. 2025, 07:00 PST",Jeopardy,Online,23.92,N/A
 2158,Crate-CTF 2025,2025,"15 Nov., 05:00 PST — 15 Nov. 2025, 13:00 PST",Jeopardy,Online,25,N/A
 2159,Platypwn 2025,2025,"15 Nov., 01:00 PST — 16 Nov. 2025, 13:00 PST",Jeopardy,Online,33.29,N/A
-2160,TU Delft CTF 2025,2025,"15 Nov., 00:00 PST — 15 Nov. 2025, 08:00 PST",Jeopardy,In-person,0,N/A
+2160,TU Delft CTF 2025,2025,"15 Nov., 00:00 PST — 15 Nov. 2025, 08:00 PST",Jeopardy,On-site,0,N/A
 2161,RCTF 2025,2025,"14 Nov., 18:00 PST — 16 Nov. 2025, 18:00 PST",Jeopardy,Online,41.75,N/A
 2162,Layer7 CTF 2025,2025,"14 Nov., 17:00 PST — 15 Nov. 2025, 17:00 PST",Jeopardy,Online,0,N/A
 2163,Guardians of the TI,2025,"14 Nov., 01:00 PST — 14 Nov. 2025, 09:00 PST",Jeopardy,Online,0,N/A
 2164,AmateursCTF 2025,2025,"13 Nov., 16:00 PST — 17 Nov. 2025, 16:00 PST",Jeopardy,Online,35.58,N/A
-2165,POC CTF Final 2025,2025,"13 Nov., 15:00 PST — 13 Nov. 2025, 22:00 PST",Jeopardy,In-person,0,N/A
+2165,POC CTF Final 2025,2025,"13 Nov., 15:00 PST — 13 Nov. 2025, 22:00 PST",Jeopardy,On-site,0,N/A
 2166,RootCipher,2025,"09 Nov., 05:00 PST — 09 Nov. 2025, 10:00 PST",Jeopardy,Online,0,N/A
 2167,M*CTF 2025 Junior Quals,2025,"09 Nov., 01:00 PST — 09 Nov. 2025, 13:00 PST",Jeopardy,Online,36,N/A
-2168,Cryovault Finals,2025,"09 Nov., 00:00 PST — 09 Nov. 2025, 09:00 PST",Jeopardy,In-person,0,N/A
+2168,Cryovault Finals,2025,"09 Nov., 00:00 PST — 09 Nov. 2025, 09:00 PST",Jeopardy,On-site,0,N/A
 2169,saarCTF 2025,2025,"08 Nov., 05:00 PST — 08 Nov. 2025, 14:00 PST",Attack-Defense,Online,97.22,N/A
-2170,Equinor CTF 2025,2025,"08 Nov., 01:00 PST — 08 Nov. 2025, 11:00 PST",Jeopardy,In-person,37,N/A
+2170,Equinor CTF 2025,2025,"08 Nov., 01:00 PST — 08 Nov. 2025, 11:00 PST",Jeopardy,On-site,37,N/A
 2171,BuckeyeCTF 2025,2025,"07 Nov., 17:00 PST — 09 Nov. 2025, 17:00 PST",Jeopardy,Online,50,N/A
 2172,Infobahn CTF 2025,2025,"07 Nov., 09:00 PST — 09 Nov. 2025, 09:00 PST",Jeopardy,Online,25,N/A
-2173,CTF@AC - Finals,2025,"07 Nov., 07:00 PST — 09 Nov. 2025, 01:00 PST",Jeopardy,In-person,25,N/A
+2173,CTF@AC - Finals,2025,"07 Nov., 07:00 PST — 09 Nov. 2025, 01:00 PST",Jeopardy,On-site,25,N/A
 2174,CSCTF 2025,2025,"07 Nov., 04:00 PST — 09 Nov. 2025, 04:00 PST",Jeopardy,Online,0,N/A
-2175,CSAW CTF Final Round 2025,2025,"06 Nov., 09:00 PST — 07 Nov. 2025, 21:00 PST",Jeopardy,In-person,25,N/A
-2176,Ctrl+Space CTF Finals,2025,"04 Nov., 01:00 PST — 06 Nov. 2025, 03:00 PST",Jeopardy,In-person,25,Prequalified teams only
+2175,CSAW CTF Final Round 2025,2025,"06 Nov., 09:00 PST — 07 Nov. 2025, 21:00 PST",Jeopardy,On-site,25,N/A
+2176,Ctrl+Space CTF Finals,2025,"04 Nov., 01:00 PST — 06 Nov. 2025, 03:00 PST",Jeopardy,On-site,25,Prequalified teams only
 2177,Russian CTF Cup 2025 Qualifier,2025,"02 Nov., 01:00 PST — 03 Nov. 2025, 01:00 PST",Jeopardy,Online,35.29,N/A
 2178,N1CTF 2025,2025,"01 Nov., 05:00 PDT — 02 Nov. 2025, 04:00 PST",Jeopardy,Online,94.5,N/A
 2179,Cryovault Quals,2025,"31 Oct., 23:30 PDT — 01 Nov. 2025, 23:30 PDT",Jeopardy,Online,0,N/A
@@ -2182,25 +2182,25 @@ event_id,name,year,date_raw,format,location,weight,notes
 2181,Haunted Pumpkin CTF '25,2025,"31 Oct., 10:00 PDT — 01 Nov. 2025, 15:59 PDT",Jeopardy,Online,0,N/A
 2182,V1t CTF 2025,2025,"31 Oct., 06:00 PDT — 02 Nov. 2025, 05:00 PST",Jeopardy,Online,22.11,N/A
 2183,ZeroDay CTF 2025,2025,"30 Oct., 06:00 PDT — 31 Oct. 2025, 06:00 PDT",Jeopardy,Online,0,N/A
-2184,PH03N1X V1P3R N0V4 CTF,2025,"29 Oct., 03:00 PDT — 31 Oct. 2025, 10:00 PDT",Jeopardy,In-person,0,N/A
-2185,Iran Tech Olympics Hardware Security 2025,2025,"28 Oct., 23:30 PDT — 29 Oct. 2025, 11:30 PDT",Jeopardy,In-person,25,N/A
-2186,CipherHunt 2.0,2025,"28 Oct., 02:30 PDT — 29 Oct. 2025, 07:30 PDT",Jeopardy,In-person,0,N/A
-2187,Iran Tech Olympics Speed-Run CTF 2025,2025,"27 Oct., 23:30 PDT — 27 Oct. 2025, 23:30 PDT",Jeopardy,In-person,0,N/A
-2188,Iran Tech Olympics Attack-Defense 2025,2025,"26 Oct., 23:30 PDT — 27 Oct. 2025, 11:30 PDT",Attack-Defense,In-person,25,N/A
-2189,AltayCTF 2025,2025,"26 Oct., 03:00 PDT — 26 Oct. 2025, 12:00 PDT",Attack-Defense,In-person,25,N/A
-2190,SAS CTF 2025 Finals,2025,"25 Oct., 20:00 PDT — 26 Oct. 2025, 07:00 PDT",Attack-Defense,In-person,25,N/A
+2184,PH03N1X V1P3R N0V4 CTF,2025,"29 Oct., 03:00 PDT — 31 Oct. 2025, 10:00 PDT",Jeopardy,On-site,0,N/A
+2185,Iran Tech Olympics Hardware Security 2025,2025,"28 Oct., 23:30 PDT — 29 Oct. 2025, 11:30 PDT",Jeopardy,On-site,25,N/A
+2186,CipherHunt 2.0,2025,"28 Oct., 02:30 PDT — 29 Oct. 2025, 07:30 PDT",Jeopardy,On-site,0,N/A
+2187,Iran Tech Olympics Speed-Run CTF 2025,2025,"27 Oct., 23:30 PDT — 27 Oct. 2025, 23:30 PDT",Jeopardy,On-site,0,N/A
+2188,Iran Tech Olympics Attack-Defense 2025,2025,"26 Oct., 23:30 PDT — 27 Oct. 2025, 11:30 PDT",Attack-Defense,On-site,25,N/A
+2189,AltayCTF 2025,2025,"26 Oct., 03:00 PDT — 26 Oct. 2025, 12:00 PDT",Attack-Defense,On-site,25,N/A
+2190,SAS CTF 2025 Finals,2025,"25 Oct., 20:00 PDT — 26 Oct. 2025, 07:00 PDT",Attack-Defense,On-site,25,N/A
 2191,DEADFACE CTF 2025,2025,"25 Oct., 07:00 PDT — 26 Oct. 2025, 17:00 PDT",Jeopardy,Online,35.39,N/A
 2192,osu!gaming CTF 2025,2025,"24 Oct., 19:00 PDT — 26 Oct. 2025, 19:00 PDT",Jeopardy,Online,21.87,N/A
 2193,2025 Qiangwang Challenge on Cyber Mimic Defense Qualification,2025,"24 Oct., 18:00 PDT — 25 Oct. 2025, 18:00 PDT",Jeopardy,Online,0,N/A
 2194,RSTCON 2025 CTF,2025,"24 Oct., 12:00 PDT — 26 Oct. 2025, 07:00 PDT",Jeopardy,Online,24,N/A
 2195,m0leCon CTF 2026 Teaser,2025,"24 Oct., 10:00 PDT — 25 Oct. 2025, 10:00 PDT",Jeopardy,Online,100,N/A
 2196,Web Arena,2025,"18 Oct., 05:30 PDT — 19 Oct. 2025, 05:30 PDT",Jeopardy,Online,0,N/A
-2197,OmniCTF - 2025 - Individuals,2025,"18 Oct., 00:00 PDT — 18 Oct. 2025, 06:00 PDT",Jeopardy,In-person,0,N/A
+2197,OmniCTF - 2025 - Individuals,2025,"18 Oct., 00:00 PDT — 18 Oct. 2025, 06:00 PDT",Jeopardy,On-site,0,N/A
 2198,H7CTF 2025,2025,"17 Oct., 20:30 PDT — 19 Oct. 2025, 08:30 PDT",Jeopardy,Online,22.56,N/A
 2199,LINE CTF 2025,2025,"17 Oct., 17:00 PDT — 18 Oct. 2025, 17:00 PDT",Jeopardy,Online,66.5,N/A
 2200,Hack.lu CTF 2025,2025,"17 Oct., 11:00 PDT — 19 Oct. 2025, 11:00 PDT",Jeopardy,Online,98.02,N/A
-2201,HITCON Cyber Range 2025 Final,2025,"16 Oct., 18:00 PDT — 17 Oct. 2025, 03:00 PDT",Jeopardy,In-person,0,N/A
-2202,Hackfest CTF 2025,2025,"16 Oct., 12:30 PDT — 17 Oct. 2025, 12:30 PDT",Jeopardy,In-person,0,N/A
+2201,HITCON Cyber Range 2025 Final,2025,"16 Oct., 18:00 PDT — 17 Oct. 2025, 03:00 PDT",Jeopardy,On-site,0,N/A
+2202,Hackfest CTF 2025,2025,"16 Oct., 12:30 PDT — 17 Oct. 2025, 12:30 PDT",Jeopardy,On-site,0,N/A
 2203,QnQSec CTF 2025,2025,"16 Oct., 11:00 PDT — 19 Oct. 2025, 11:00 PDT",Jeopardy,Online,24.75,N/A
 2204,GaianSpace CTF 2025,2025,"13 Oct., 07:00 PDT — 13 Oct. 2025, 07:30 PDT",Jeopardy,Online,0,N/A
 2205,POC CTF Qualification 2025,2025,"12 Oct., 03:00 PDT — 13 Oct. 2025, 03:00 PDT",Jeopardy,Online,0,N/A
@@ -2219,20 +2219,20 @@ event_id,name,year,date_raw,format,location,weight,notes
 2218,SunshineCTF 2025,2025,"27 Sept., 07:00 PDT — 29 Sept. 2025, 07:00 PDT",Jeopardy,Online,51.65,N/A
 2219,FAUST CTF 2025,2025,"27 Sept., 05:00 PDT — 27 Sept. 2025, 14:00 PDT",Attack-Defense,Online,92.5,N/A
 2220,Iran Tech Olympics CTF 2025,2025,"26 Sept., 06:00 PDT — 27 Sept. 2025, 06:00 PDT",Jeopardy,Online,25,N/A
-2221,Srdnlen CTF 2025 Finals (Sardinia Cyber Camp),2025,"25 Sept., 03:00 PDT — 25 Sept. 2025, 15:00 PDT",Jeopardy,In-person,25,N/A
+2221,Srdnlen CTF 2025 Finals (Sardinia Cyber Camp),2025,"25 Sept., 03:00 PDT — 25 Sept. 2025, 15:00 PDT",Jeopardy,On-site,25,N/A
 2222,HackornCTF 2025 Quals,2025,"24 Sept., 17:00 PDT — 25 Sept. 2025, 16:59 PDT",Jeopardy,Online,0,N/A
 2223,Holmes CTF 2025,2025,"22 Sept., 06:00 PDT — 26 Sept. 2025, 12:00 PDT",Jeopardy,Online,24,N/A
 2224,CDCTF 2025,2025,"20 Sept., 08:00 PDT — 20 Sept. 2025, 20:00 PDT",Jeopardy,Online,25,N/A
 2225,Ctrl+Space CTF Quals,2025,"20 Sept., 02:00 PDT — 21 Sept. 2025, 01:59 PDT",Jeopardy,Online,25,N/A
-2226,ATLA Opening Date CTF,2025,"19 Sept., 22:00 PDT — 20 Sept. 2025, 06:00 PDT",Jeopardy,In-person,0,N/A
+2226,ATLA Opening Date CTF,2025,"19 Sept., 22:00 PDT — 20 Sept. 2025, 06:00 PDT",Jeopardy,On-site,0,N/A
 2227,WMCTF2025,2025,"19 Sept., 19:00 PDT — 20 Sept. 2025, 19:00 PDT",Jeopardy,Online,80,N/A
 2228,CrewCTF 2025,2025,"19 Sept., 14:00 PDT — 21 Sept. 2025, 14:00 PDT",Jeopardy,Online,38.93,N/A
 2229,K17 CTF,2025,"19 Sept., 01:00 PDT — 21 Sept. 2025, 01:00 PDT",Jeopardy,Online,24.83,N/A
-2230,VolgaCTF 2025 Final,2025,"17 Sept., 23:00 PDT — 18 Sept. 2025, 08:00 PDT",Attack-Defense,In-person,12.4,N/A
-2231,CyberKumbez 2025,2025,"17 Sept., 03:00 PDT — 19 Sept. 2025, 09:00 PDT",Attack-Defense,In-person,0,N/A
+2230,VolgaCTF 2025 Final,2025,"17 Sept., 23:00 PDT — 18 Sept. 2025, 08:00 PDT",Attack-Defense,On-site,12.4,N/A
+2231,CyberKumbez 2025,2025,"17 Sept., 03:00 PDT — 19 Sept. 2025, 09:00 PDT",Attack-Defense,On-site,0,N/A
 2232,Pointer Overflow CTF - 2025,2025,"14 Sept., 07:00 PDT — 16 Nov. 2025, 06:00 PST",Jeopardy,Online,0,N/A
 2233,CTF@AC - Quals,2025,"14 Sept., 02:00 PDT — 15 Sept. 2025, 02:00 PDT",Jeopardy,Online,24.53,N/A
-2234,MaltaCTF 2025 Finals,2025,"13 Sept., 03:00 PDT — 14 Sept. 2025, 03:00 PDT",Jeopardy,In-person,0,N/A
+2234,MaltaCTF 2025 Finals,2025,"13 Sept., 03:00 PDT — 14 Sept. 2025, 03:00 PDT",Jeopardy,On-site,0,N/A
 2235,Alfa Surfing CTF,2025,"13 Sept., 02:00 PDT — 14 Sept. 2025, 08:00 PDT",Jeopardy,Online,21.67,N/A
 2236,07CTF,2025,"12 Sept., 23:30 PDT — 14 Sept. 2025, 11:30 PDT",Jeopardy,Online,23.71,N/A
 2237,CSAW CTF Qualification Round 2025,2025,"12 Sept., 09:00 PDT — 14 Sept. 2025, 09:00 PDT",Jeopardy,Online,16.47,N/A
@@ -2251,10 +2251,10 @@ event_id,name,year,date_raw,format,location,weight,notes
 2250,Blue Arena,2025,"29 Aug., 07:04 PDT — 31 Aug. 2025, 07:33 PDT",Jeopardy,Online,0,N/A
 2251,TFC CTF 2025,2025,"29 Aug., 03:00 PDT — 31 Aug. 2025, 03:00 PDT",Jeopardy,Online,58.19,N/A
 2252,Full Weak Engineer CTF 2025,2025,"29 Aug., 03:00 PDT — 31 Aug. 2025, 03:00 PDT",Jeopardy,Online,24.62,N/A
-2253,PECAN+ CTF 2025,2025,"23 Aug., 18:00 PDT — 23 Aug. 2025, 22:00 PDT",Jeopardy,In-person,0,N/A
+2253,PECAN+ CTF 2025,2025,"23 Aug., 18:00 PDT — 23 Aug. 2025, 22:00 PDT",Jeopardy,On-site,0,N/A
 2254,Lexington Informatics Tournament CTF 2025,2025,"23 Aug., 08:00 PDT — 25 Aug. 2025, 08:00 PDT",Jeopardy,Online,67.32,N/A
 2255,KubanCTF Qualifier 2025,2025,"23 Aug., 00:00 PDT — 23 Aug. 2025, 10:00 PDT",Jeopardy,Online,0,N/A
-2256,Sawah Cyber Security CTF 2025,2025,"22 Aug., 22:00 PDT — 23 Aug. 2025, 02:00 PDT",Jeopardy,In-person,0,N/A
+2256,Sawah Cyber Security CTF 2025,2025,"22 Aug., 22:00 PDT — 23 Aug. 2025, 02:00 PDT",Jeopardy,On-site,0,N/A
 2257,HITCON CTF 2025,2025,"22 Aug., 07:00 PDT — 24 Aug. 2025, 07:00 PDT",Jeopardy,Online,100,N/A
 2258,BrunnerCTF 2025,2025,"22 Aug., 05:00 PDT — 24 Aug. 2025, 05:00 PDT",Jeopardy,Online,24.66,N/A
 2259,CTFZone 2025 Quals,2025,"16 Aug., 03:00 PDT — 17 Aug. 2025, 03:00 PDT",Jeopardy,Online,92.45,N/A
@@ -2263,9 +2263,9 @@ event_id,name,year,date_raw,format,location,weight,notes
 2262,scriptCTF 2025,2025,"15 Aug., 17:00 PDT — 17 Aug. 2025, 17:00 PDT",Jeopardy,Online,24.7,N/A
 2263,WHY2025 CTF,2025,"08 Aug., 09:00 PDT — 11 Aug. 2025, 09:00 PDT",Jeopardy,Online,0,N/A
 2264,Startpwn CTF 2025,2025,"08 Aug., 09:00 PDT — 09 Aug. 2025, 12:00 PDT",Jeopardy,Online,24.65,N/A
-2265,DEF CON CTF 2025,2025,"08 Aug., 09:00 PDT — 10 Aug. 2025, 12:00 PDT",Attack-Defense,In-person,100,Prequalified teams only
+2265,DEF CON CTF 2025,2025,"08 Aug., 09:00 PDT — 10 Aug. 2025, 12:00 PDT",Attack-Defense,On-site,100,Prequalified teams only
 2266,idekCTF 2025,2025,"02 Aug., 01:00 PDT — 04 Aug. 2025, 01:00 PDT",Jeopardy,Online,52.06,N/A
-2267,PH03N1X V1P3R N0V4 CTF,2025,"02 Aug., 00:56 PDT — 02 Aug. 2025, 00:56 PDT",Jeopardy,In-person,0,N/A
+2267,PH03N1X V1P3R N0V4 CTF,2025,"02 Aug., 00:56 PDT — 02 Aug. 2025, 00:56 PDT",Jeopardy,On-site,0,N/A
 2268,justCTF 2025,2025,"01 Aug., 23:00 PDT — 03 Aug. 2025, 12:00 PDT",Jeopardy,Online,97.2,N/A
 2269,World Wide CTF 2025,2025,"26 July, 05:00 PDT — 28 July 2025, 05:00 PDT",Jeopardy,Online,24.48,N/A
 2270,UIUCTF 2025,2025,"25 July, 17:00 PDT — 27 July 2025, 17:00 PDT",Jeopardy,Online,91.43,N/A
@@ -2302,37 +2302,37 @@ event_id,name,year,date_raw,format,location,weight,notes
 2301,IERAE CTF 2025 - GMO Cybersecurity Contest,2025,"20 June, 23:00 PDT — 21 June 2025, 23:00 PDT",Jeopardy,Online,25,N/A
 2302,BCACTF 6.0,2025,"20 June, 18:30 PDT — 23 June 2025, 18:30 PDT",Jeopardy,Online,62.97,N/A
 2303,GPN CTF 2025,2025,"20 June, 03:00 PDT — 21 June 2025, 15:00 PDT",Jeopardy,Online,46,N/A
-2304,DHM 2025,2025,"18 June, 01:00 PDT — 19 June 2025, 10:00 PDT",Jeopardy,In-person,25,N/A
+2304,DHM 2025,2025,"18 June, 01:00 PDT — 19 June 2025, 10:00 PDT",Jeopardy,On-site,25,N/A
 2305,Cyber Lumen x GWK #CTF1,2025,"16 June, 04:49 PDT — 16 June 2025, 04:49 PDT",Jeopardy,Online,0,N/A
-2306,Hack'In 0x04,2025,"14 June, 08:00 PDT — 14 June 2025, 23:00 PDT",Jeopardy,In-person,0,N/A
-2307,CyberSci Nationals 2025,2025,"14 June, 06:00 PDT — 15 June 2025, 16:00 PDT",Jeopardy,In-person,0,Academic teams only
-2308,Midnight Sun CTF 2025 Finals,2025,"14 June, 03:00 PDT — 15 June 2025, 03:00 PDT",Jeopardy,In-person,100,N/A
+2306,Hack'In 0x04,2025,"14 June, 08:00 PDT — 14 June 2025, 23:00 PDT",Jeopardy,On-site,0,N/A
+2307,CyberSci Nationals 2025,2025,"14 June, 06:00 PDT — 15 June 2025, 16:00 PDT",Jeopardy,On-site,0,Academic teams only
+2308,Midnight Sun CTF 2025 Finals,2025,"14 June, 03:00 PDT — 15 June 2025, 03:00 PDT",Jeopardy,On-site,100,N/A
 2309,SSMCTF 2025,2025,"14 June, 02:00 PDT — 15 June 2025, 14:00 PDT",Jeopardy,Online,0,N/A
 2310,smileyCTF 2025,2025,"13 June, 17:00 PDT — 15 June 2025, 17:00 PDT",Jeopardy,Online,48.61,N/A
-2311,AMSI CTF 2025,2025,"13 June, 13:00 PDT — 14 June 2025, 11:00 PDT",Jeopardy,In-person,0,N/A
+2311,AMSI CTF 2025,2025,"13 June, 13:00 PDT — 14 June 2025, 11:00 PDT",Jeopardy,On-site,0,N/A
 2312,"Season V, US Cyber Open Competitive CTF",2025,"09 June, 13:00 PDT — 19 June 2025, 16:59 PDT",Jeopardy,Online,0,N/A
 2313,DFIR Labs CTF by The DFIR Report,2025,"07 June, 09:30 PDT — 07 June 2025, 13:30 PDT",Jeopardy,Online,0,N/A
-2314,Goldrush Gauntlet 2025,2025,"07 June, 06:00 PDT — 08 June 2025, 14:00 PDT",Jeopardy,In-person,0,N/A
+2314,Goldrush Gauntlet 2025,2025,"07 June, 06:00 PDT — 08 June 2025, 14:00 PDT",Jeopardy,On-site,0,N/A
 2315,bi0sCTF 2025,2025,"06 June, 22:30 PDT — 08 June 2025, 10:30 PDT",Jeopardy,Online,95.79,N/A
 2316,DIVER OSINT CTF 2025,2025,"06 June, 20:00 PDT — 07 June 2025, 20:00 PDT",Jeopardy,Online,0,N/A
 2317,"Season V, US Cyber Open Beginner's Game Room CTF",2025,"06 June, 14:30 PDT — 19 June 2025, 16:59 PDT",Jeopardy,Online,0,N/A
-2318,MindBreak 2025 by ESGI,2025,"06 June, 14:00 PDT — 06 June 2025, 23:00 PDT",Jeopardy,In-person,0,N/A
+2318,MindBreak 2025 by ESGI,2025,"06 June, 14:00 PDT — 06 June 2025, 23:00 PDT",Jeopardy,On-site,0,N/A
 2319,TJCTF 2025,2025,"06 June, 05:00 PDT — 08 June 2025, 05:00 PDT",Jeopardy,Online,51.29,N/A
 2320,AppSec-IL CTF 2025,2025,"02 June, 10:00 PDT — 04 June 2025, 10:00 PDT",Jeopardy,Online,0,N/A
 2321,Grey Cat The Flag 2025,2025,"31 May, 05:00 PDT — 01 June 2025, 05:00 PDT",Jeopardy,Online,32.92,N/A
 2322,[POSTPONED] Internet Festival 2025 CTF Quals,2025,"31 May, 04:00 PDT — 01 June 2025, 04:00 PDT",Jeopardy,Online,0,N/A
 2323,N0PSctf,2025,"31 May, 01:00 PDT — 01 June 2025, 13:00 PDT",Jeopardy,Online,24.34,N/A
-2324,Hardwear.io USA 2025 Hardware CTF,2025,"30 May, 10:00 PDT — 31 May 2025, 13:00 PDT",Jeopardy,In-person,0,N/A
+2324,Hardwear.io USA 2025 Hardware CTF,2025,"30 May, 10:00 PDT — 31 May 2025, 13:00 PDT",Jeopardy,On-site,0,N/A
 2325,D^3CTF 2025,2025,"30 May, 05:00 PDT — 31 May 2025, 05:00 PDT",Jeopardy,Online,54.67,N/A
-2326,GIT X IITB Trust Lab CTF,2025,"28 May, 00:23 PDT — 28 May 2025, 00:23 PDT",Jeopardy,In-person,0,N/A
+2326,GIT X IITB Trust Lab CTF,2025,"28 May, 00:23 PDT — 28 May 2025, 00:23 PDT",Jeopardy,On-site,0,N/A
 2327,SAS CTF 2025 Quals,2025,"24 May, 05:00 PDT — 25 May 2025, 05:00 PDT",Jeopardy,Online,20.72,N/A
 2328,DaVinciCTF 2025,2025,"24 May, 03:00 PDT — 25 May 2025, 13:00 PDT",Jeopardy,Online,32.59,N/A
-2329,HACK'OSINT CTF - 2025,2025,"23 May, 12:00 PDT — 25 May 2025, 12:00 PDT",Jeopardy,In-person,0,N/A
+2329,HACK'OSINT CTF - 2025,2025,"23 May, 12:00 PDT — 25 May 2025, 12:00 PDT",Jeopardy,On-site,0,N/A
 2330,NahamCon CTF 2025,2025,"23 May, 12:00 PDT — 25 May 2025, 12:00 PDT",Jeopardy,Online,53.77,N/A
 2331,Global Cyber Skills Benchmark CTF 2025: Operation Blackout,2025,"23 May, 06:00 PDT — 27 May 2025, 06:00 PDT",Jeopardy,Online,24,N/A
 2332,AI CTF 2025,2025,"22 May, 10:00 PDT — 24 May 2025, 02:00 PDT",Jeopardy,Online,0,N/A
 2333,Midnight Sun CTF 2025 Quals,2025,"17 May, 05:00 PDT — 18 May 2025, 05:00 PDT",Jeopardy,Online,53,N/A
-2334,WhiteHats TrojanCTF 2025,2025,"17 May, 02:00 PDT — 17 May 2025, 14:00 PDT",Jeopardy,In-person,0,N/A
+2334,WhiteHats TrojanCTF 2025,2025,"17 May, 02:00 PDT — 17 May 2025, 14:00 PDT",Jeopardy,On-site,0,N/A
 2335,AlpacaHack Round 11 (Web),2025,"16 May, 20:00 PDT — 17 May 2025, 02:00 PDT",Jeopardy,Online,0,N/A
 2336,BYUCTF 2025,2025,"16 May, 19:00 PDT — 17 May 2025, 19:00 PDT",Jeopardy,Online,36.94,N/A
 2337,Cyshock - The Awakening,2025,"14 May, 01:00 PDT — 15 May 2025, 09:00 PDT",Jeopardy,Online,0,N/A
@@ -2341,15 +2341,15 @@ event_id,name,year,date_raw,format,location,weight,notes
 2340,DamCTF 2025,2025,"09 May, 17:00 PDT — 11 May 2025, 17:00 PDT",Jeopardy,Online,60.67,N/A
 2341,San Diego CTF 2025,2025,"09 May, 16:00 PDT — 11 May 2025, 16:00 PDT",Jeopardy,Online,22.18,N/A
 2342,Break the Syntax CTF 2025,2025,"09 May, 09:00 PDT — 11 May 2025, 03:00 PDT",Jeopardy,Online,42,N/A
-2343,LakeCTF Finals 24-25,2025,"09 May, 01:00 PDT — 09 May 2025, 09:00 PDT",Jeopardy,In-person,36,N/A
+2343,LakeCTF Finals 24-25,2025,"09 May, 01:00 PDT — 09 May 2025, 09:00 PDT",Jeopardy,On-site,36,N/A
 2344,DevSecOps CTF 2025,2025,"04 May, 03:00 PDT — 04 May 2025, 15:00 PDT",Jeopardy,Online,37,N/A
 2345,UniVsThreats 25 CTF,2025,"03 May, 03:00 PDT — 04 May 2025, 03:00 PDT",Jeopardy,Online,18.35,N/A
 2346,TsukuCTF 2025,2025,"02 May, 20:00 PDT — 03 May 2025, 20:00 PDT",Jeopardy,Online,0,N/A
-2347,RPCA CTF 2025,2025,"02 May, 10:00 PDT — 05 May 2025, 10:00 PDT",Jeopardy,In-person,36,N/A
+2347,RPCA CTF 2025,2025,"02 May, 10:00 PDT — 05 May 2025, 10:00 PDT",Jeopardy,On-site,36,N/A
 2348,SpringForwardCTF 2025 (cancelled),2025,"02 May, 09:00 PDT — 03 May 2025, 09:00 PDT",Jeopardy,Online,24.2,N/A
-2349,Nexzero.Ftc,2025,"01 May, 13:00 PDT — 03 May 2025, 12:44 PDT",Jeopardy,In-person,0,N/A
+2349,Nexzero.Ftc,2025,"01 May, 13:00 PDT — 03 May 2025, 12:44 PDT",Jeopardy,On-site,0,N/A
 2350,CU school CTF 2025,2025,"30 April, 01:00 PDT — 30 April 2025, 09:00 PDT",Jeopardy,Online,0,N/A
-2351,ICCSDFAI,2025,"29 April, 04:00 PDT — 30 April 2025, 10:00 PDT",Jeopardy,In-person,0,N/A
+2351,ICCSDFAI,2025,"29 April, 04:00 PDT — 30 April 2025, 10:00 PDT",Jeopardy,On-site,0,N/A
 2352,Incognito 6.0,2025,"27 April, 17:00 PDT — 28 April 2025, 17:00 PDT",Jeopardy,Online,30.43,N/A
 2353,WOCS'hAck 4d edition,2025,"26 April, 07:00 PDT — 27 April 2025, 07:00 PDT",Jeopardy,Online,0,N/A
 2354,Haruulzangi U18 2025 Domestic Quals,2025,"26 April, 05:00 PDT — 26 April 2025, 09:00 PDT",Jeopardy,Online,0,N/A
@@ -2369,15 +2369,15 @@ event_id,name,year,date_raw,format,location,weight,notes
 2368,SECPlayground Cybersplash 2025,2025,"17 April, 19:00 PDT — 18 April 2025, 19:00 PDT",Jeopardy,Online,0,N/A
 2369,Operation Cipher Shadows,2025,"12 April, 10:00 PDT — 13 April 2025, 10:00 PDT",Jeopardy,Online,0,N/A
 2370,SummitCTF 2025,2025,"12 April, 07:00 PDT — 13 April 2025, 07:00 PDT",Jeopardy,Online,0,N/A
-2371,PwnMe CTF Finals 2025,2025,"12 April, 03:00 PDT — 12 April 2025, 13:00 PDT",Jeopardy,In-person,0,N/A
-2372,Challenge the Cyber - Security Samurais,2025,"12 April, 02:00 PDT — 12 April 2025, 08:00 PDT",Jeopardy,In-person,0,N/A
+2371,PwnMe CTF Finals 2025,2025,"12 April, 03:00 PDT — 12 April 2025, 13:00 PDT",Jeopardy,On-site,0,N/A
+2372,Challenge the Cyber - Security Samurais,2025,"12 April, 02:00 PDT — 12 April 2025, 08:00 PDT",Jeopardy,On-site,0,N/A
 2373,THCon 2K25 CTF,2025,"12 April, 01:00 PDT — 13 April 2025, 01:00 PDT",Jeopardy,Online,23.65,N/A
-2374,Midnight Flag CTF - INSURRECTION,2025,"12 April, 01:00 PDT — 13 April 2025, 09:00 PDT",Jeopardy,In-person,24.5,N/A
+2374,Midnight Flag CTF - INSURRECTION,2025,"12 April, 01:00 PDT — 13 April 2025, 09:00 PDT",Jeopardy,On-site,24.5,N/A
 2375,DEF CON CTF Qualifier 2025,2025,"11 April, 17:00 PDT — 13 April 2025, 17:00 PDT",Jeopardy,Online,69.44,N/A
 2376,Texas Security Awareness Week 2025,2025,"11 April, 12:00 PDT — 13 April 2025, 12:00 PDT",Jeopardy,Online,31,N/A
 2377,1753CTF 2025,2025,"11 April, 10:00 PDT — 12 April 2025, 10:00 PDT",Jeopardy,Online,34.82,N/A
 2378,UNbreakable International 2024 - Team Phase,2025,"11 April, 03:00 PDT — 13 April 2025, 03:00 PDT",Jeopardy,Online,24.82,N/A
-2379,Dreamhack Invitational 2025,2025,"07 April, 17:00 PDT — 08 April 2025, 14:00 PDT",Jeopardy,In-person,0,N/A
+2379,Dreamhack Invitational 2025,2025,"07 April, 17:00 PDT — 08 April 2025, 14:00 PDT",Jeopardy,On-site,0,N/A
 2380,Ulisse CTF 2025,2025,"05 April, 10:00 PDT — 06 April 2025, 10:00 PDT",Jeopardy,Online,24.81,N/A
 2381,Auvergn'Hack,2025,"05 April, 05:45 PDT — 05 April 2025, 12:00 PDT",Jeopardy,Online,22.75,N/A
 2382,Moscow CTF School 2025,2025,"05 April, 03:00 PDT — 05 April 2025, 11:00 PDT",Jeopardy,Online,0,N/A
@@ -2392,21 +2392,21 @@ event_id,name,year,date_raw,format,location,weight,notes
 2391,SillyCTF 2025,2025,"29 March, 05:00 PDT — 29 March 2025, 17:00 PDT",Jeopardy,Online,25,N/A
 2392,VolgaCTF 2025 Qualifier,2025,"29 March, 05:00 PDT — 30 March 2025, 05:00 PDT",Jeopardy,Online,27.14,N/A
 2393,Undutmaning 2025,2025,"29 March, 04:00 PDT — 29 March 2025, 12:00 PDT",Jeopardy,Online,24.5,N/A
-2394,PolyPwnCTF 2025,2025,"29 March, 03:00 PDT — 30 March 2025, 13:00 PDT",Jeopardy,In-person,0,N/A
-2395,LBC2 2025,2025,"29 March, 02:00 PDT — 29 March 2025, 08:00 PDT",Jeopardy,In-person,0,N/A
+2394,PolyPwnCTF 2025,2025,"29 March, 03:00 PDT — 30 March 2025, 13:00 PDT",Jeopardy,On-site,0,N/A
+2395,LBC2 2025,2025,"29 March, 02:00 PDT — 29 March 2025, 08:00 PDT",Jeopardy,On-site,0,N/A
 2396,Dreamhack CTF Season 7 Round #6 (Div. 2),2025,"28 March, 17:00 PDT — 29 March 2025, 08:00 PDT",Jeopardy,Online,0,N/A
 2397,Codegate CTF 2025 Preliminary,2025,"28 March, 17:00 PDT — 29 March 2025, 08:00 PDT",Jeopardy,Online,54,N/A
 2398,TAMUctf 2025,2025,"28 March, 15:00 PDT — 30 March 2025, 15:00 PDT",Jeopardy,Online,56.66,N/A
 2399,SpartanCTF 2025,2025,"28 March, 14:00 PDT — 30 March 2025, 14:00 PDT",Jeopardy,Online,0,N/A
 2400,SwampCTF 2025,2025,"28 March, 14:00 PDT — 30 March 2025, 14:00 PDT",Jeopardy,Online,40.4,N/A
 2401,DiceCTF 2025 Quals,2025,"28 March, 14:00 PDT — 30 March 2025, 14:00 PDT",Jeopardy,Online,81,N/A
-2402,HackDay 2025 - Finals,2025,"28 March, 11:00 PDT — 29 March 2025, 11:00 PDT",Jeopardy,In-person,0,N/A
+2402,HackDay 2025 - Finals,2025,"28 March, 11:00 PDT — 29 March 2025, 11:00 PDT",Jeopardy,On-site,0,N/A
 2403,UNbreakable International 2025 - Individual Phase,2025,"28 March, 02:00 PDT — 28 March 2025, 03:00 PDT",Jeopardy,Online,0,N/A
 2404,StealthCup,2025,"28 March, 00:00 PDT — 28 March 2025, 08:00 PDT",Hack-Quest,Online,0,N/A
-2405,SibirCTF 2025,2025,"27 March, 20:15 PDT — 29 March 2025, 05:15 PDT",Attack-Defense,In-person,25,N/A
+2405,SibirCTF 2025,2025,"27 March, 20:15 PDT — 29 March 2025, 05:15 PDT",Attack-Defense,On-site,25,N/A
 2406,HICAThon 1.0,2025,"24 March, 20:00 PDT — 26 March 2025, 05:30 PDT",Jeopardy,Online,0,N/A
 2407,AlpacaHack Round 10 (Pwn),2025,"22 March, 20:00 PDT — 23 March 2025, 02:00 PDT",Jeopardy,Online,0,N/A
-2408,ZeroDays CTF 2025,2025,"22 March, 02:30 PDT — 22 March 2025, 10:00 PDT",Jeopardy,In-person,25,N/A
+2408,ZeroDays CTF 2025,2025,"22 March, 02:30 PDT — 22 March 2025, 10:00 PDT",Jeopardy,On-site,25,N/A
 2409,FooBar CTF 2025,2025,"21 March, 23:30 PDT — 22 March 2025, 23:30 PDT",Jeopardy,Online,25,N/A
 2410,WolvCTF 2025,2025,"21 March, 16:00 PDT — 23 March 2025, 16:00 PDT",Jeopardy,Online,47.25,N/A
 2411,RITSEC CTF 2025,2025,"21 March, 14:00 PDT — 23 March 2025, 14:00 PDT",Jeopardy,Online,34.14,N/A
@@ -2414,17 +2414,17 @@ event_id,name,year,date_raw,format,location,weight,notes
 2413,WHY2025 CTF Teaser,2025,"21 March, 12:00 PDT — 23 March 2025, 12:00 PDT",Jeopardy,Online,0,N/A
 2414,Cyber Apocalypse CTF 2025: Tales from Eldoria,2025,"21 March, 06:00 PDT — 26 March 2025, 05:59 PDT",Jeopardy,Online,24,N/A
 2415,DC509 CTF 2025,2025,"20 March, 17:00 PDT — 20 March 2025, 19:30 PDT",Jeopardy,Online,0,N/A
-2416,m0leCon CTF 2025,2025,"20 March, 09:00 PDT — 21 March 2025, 09:00 PDT",Jeopardy,In-person,75,N/A
+2416,m0leCon CTF 2025,2025,"20 March, 09:00 PDT — 21 March 2025, 09:00 PDT",Jeopardy,On-site,75,N/A
 2417,PascalCTF Beginners 2025,2025,"19 March, 08:00 PDT — 19 March 2025, 13:00 PDT",Jeopardy,Online,0,N/A
 2418,Blarney Elder Black Rainbow CTF,2025,"16 March, 17:00 PDT — 05 April 2025, 17:00 PDT",Attack-Defense,Online,0,N/A
 2419,WatCTF W25,2025,"15 March, 12:00 PDT — 16 March 2025, 12:00 PDT",Jeopardy,Online,24.81,N/A
 2420,Nowruz 1404,2025,"15 March, 06:30 PDT — 16 March 2025, 06:30 PDT",Jeopardy,Online,24.51,N/A
 2421,K!nd4SUS CTF 2025,2025,"15 March, 06:00 PDT — 16 March 2025, 06:00 PDT",Jeopardy,Online,18.7,N/A
-2422,@Hack 2025,2025,"15 March, 04:00 PDT — 16 March 2025, 04:00 PDT",Jeopardy,In-person,0,N/A
+2422,@Hack 2025,2025,"15 March, 04:00 PDT — 16 March 2025, 04:00 PDT",Jeopardy,On-site,0,N/A
 2423,UTCTF 2025,2025,"14 March, 16:00 PDT — 16 March 2025, 16:00 PDT",Jeopardy,Online,67.21,N/A
-2424,Insomni'hack 2025,2025,"14 March, 10:00 PDT — 14 March 2025, 21:00 PDT",Jeopardy,In-person,24.14,N/A
+2424,Insomni'hack 2025,2025,"14 March, 10:00 PDT — 14 March 2025, 21:00 PDT",Jeopardy,On-site,24.14,N/A
 2425,AI vs Human CTF Challenge,2025,"14 March, 08:00 PDT — 16 March 2025, 08:00 PDT",Jeopardy,Online,0,N/A
-2426,LiU CTF 2025,2025,"08 March, 09:15 PST — 08 March 2025, 14:45 PST",Jeopardy,In-person,0,N/A
+2426,LiU CTF 2025,2025,"08 March, 09:15 PST — 08 March 2025, 14:45 PST",Jeopardy,On-site,0,N/A
 2427,DFIR Labs CTF by The DFIR Report,2025,"08 March, 08:00 PST — 08 March 2025, 12:00 PST",Jeopardy,Online,0,N/A
 2428,Ugra CTF Quals 2025,2025,"07 March, 23:00 PST — 09 March 2025, 12:00 PDT",Jeopardy,Online,32.59,N/A
 2429,TPCTF 2025,2025,"07 March, 17:00 PST — 09 March 2025, 18:00 PDT",Jeopardy,Online,25,N/A
@@ -2435,8 +2435,8 @@ event_id,name,year,date_raw,format,location,weight,notes
 2434,Winja CTF | Nullcon Goa 2025,2025,"01 March, 22:00 PST — 02 March 2025, 03:00 PST",Jeopardy,Online,13,N/A
 2435,CSCG 2025,2025,"01 March, 09:00 PST — 01 May 2025, 09:00 PDT",Jeopardy,Online,0,N/A
 2436,WEC CTF 2025,2025,"01 March, 03:30 PST — 02 March 2025, 03:30 PST",Jeopardy,Online,0,N/A
-2437,SECCON CTF 13 International Finals,2025,"28 Feb., 17:00 PST — 02 March 2025, 03:00 PST",Jeopardy,In-person,25,N/A
-2438,SECCON CTF 13 Domestic Finals,2025,"28 Feb., 17:00 PST — 02 March 2025, 03:00 PST",Jeopardy,In-person,25,N/A
+2437,SECCON CTF 13 International Finals,2025,"28 Feb., 17:00 PST — 02 March 2025, 03:00 PST",Jeopardy,On-site,25,N/A
+2438,SECCON CTF 13 Domestic Finals,2025,"28 Feb., 17:00 PST — 02 March 2025, 03:00 PST",Jeopardy,On-site,25,N/A
 2439,PwnMe CTF Quals 2025,2025,"28 Feb., 12:00 PST — 02 March 2025, 10:00 PST",Jeopardy,Online,24.95,N/A
 2440,ApoorvCTF 2025,2025,"28 Feb., 07:30 PST — 02 March 2025, 07:30 PST",Jeopardy,Online,24.1,N/A
 2441,Bloom Clues CTF,2025,"28 Feb., 01:30 PST — 28 Feb. 2025, 16:00 PST",Jeopardy,Online,0,N/A
@@ -2444,11 +2444,11 @@ event_id,name,year,date_raw,format,location,weight,notes
 2443,TRX CTF 2025,2025,"22 Feb., 06:00 PST — 23 Feb. 2025, 06:00 PST",Jeopardy,Online,24.16,N/A
 2444,Kashi CTF 2025,2025,"22 Feb., 04:00 PST — 23 Feb. 2025, 04:00 PST",Jeopardy,Online,21.78,N/A
 2445,Dreamhack CTF Season 7 Round #4 (Div. 2),2025,"21 Feb., 16:00 PST — 22 Feb. 2025, 07:00 PST",Jeopardy,Online,0,N/A
-2446,SAIBORG | Elite Hacking Competition | Edition #2 | 21/Feb/2025,2025,"21 Feb., 06:30 PST — 21 Feb. 2025, 13:00 PST",Hack-Quest,In-person,0,N/A
+2446,SAIBORG | Elite Hacking Competition | Edition #2 | 21/Feb/2025,2025,"21 Feb., 06:30 PST — 21 Feb. 2025, 13:00 PST",Hack-Quest,On-site,0,N/A
 2447,ThunderCipher,2025,"19 Feb., 23:30 PST — 20 Feb. 2025, 05:30 PST",Jeopardy,Online,0,N/A
 2448,BroncoCTF 2025,2025,"15 Feb., 11:00 PST — 16 Feb. 2025, 11:00 PST",Jeopardy,Online,22.51,N/A
 2449,EHAX CTF 2025,2025,"15 Feb., 08:00 PST — 16 Feb. 2025, 08:00 PST",Jeopardy,Online,22.67,N/A
-2450,TheDeccanCTF,2025,"08 Feb., 01:30 PST — 08 Feb. 2025, 21:30 PST",Jeopardy,In-person,0,N/A
+2450,TheDeccanCTF,2025,"08 Feb., 01:30 PST — 08 Feb. 2025, 21:30 PST",Jeopardy,On-site,0,N/A
 2451,LA CTF 2025,2025,"07 Feb., 20:00 PST — 09 Feb. 2025, 14:00 PST",Jeopardy,Online,36.7,N/A
 2452,Dreamhack Invitational Quals 2025,2025,"07 Feb., 16:00 PST — 08 Feb. 2025, 16:00 PST",Jeopardy,Online,0,N/A
 2453,Pragyan CTF 2025,2025,"07 Feb., 04:30 PST — 08 Feb. 2025, 10:30 PST",Jeopardy,Online,0,N/A
@@ -2466,7 +2466,7 @@ event_id,name,year,date_raw,format,location,weight,notes
 2465,x3CTF 2025 (feat. mvm),2025,"24 Jan., 10:00 PST — 26 Jan. 2025, 10:00 PST",Jeopardy,Online,23.59,N/A
 2466,Remedy CTF 2025,2025,"24 Jan., 04:00 PST — 26 Jan. 2025, 04:00 PST",Jeopardy,Online,0,N/A
 2467,KnightCTF 2025,2025,"20 Jan., 07:00 PST — 21 Jan. 2025, 07:00 PST",Jeopardy,Online,18.78,N/A
-2468,HKCERT CTF 2024 (Final Round),2025,"19 Jan., 17:30 PST — 20 Jan. 2025, 20:30 PST",Attack-Defense,In-person,0,N/A
+2468,HKCERT CTF 2024 (Final Round),2025,"19 Jan., 17:30 PST — 20 Jan. 2025, 20:30 PST",Attack-Defense,On-site,0,N/A
 2469,Srdnlen CTF 2025 Quals,2025,"18 Jan., 10:00 PST — 19 Jan. 2025, 10:00 PST",Jeopardy,Online,32.28,N/A
 2470,2025 Embedded Capture the Flag,2025,"15 Jan., 09:00 PST — 16 April 2025, 09:00 PDT",Attack-Defense,Online,0,N/A
 2471,TSCCTF 2025,2025,"12 Jan., 18:00 PST — 15 Jan. 2025, 18:00 PST",Jeopardy,Online,0,N/A

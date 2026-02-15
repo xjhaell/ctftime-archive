@@ -2,7 +2,7 @@
 
 A structured dataset of capture the flag (CTF) competition events from [CTFtime.org](https://ctftime.org), covering 2015 through 2025.
 
-The dataset contains 2,477 events scraped from CTFtime's [past events archive](https://ctftime.org/event/list/past). Each event includes its name, date, format, location, and CTFtime weight rating. An enriched version adds 20+ derived variables for temporal analysis, duration categories, COVID-era classification, and more.
+The dataset contains 2,478 events scraped from CTFtime's [past events archive](https://ctftime.org/event/list/past). Each event includes its name, date, format, location, and CTFtime weight rating. An enriched version adds 20+ derived variables for temporal analysis, duration categories, COVID-era classification, and more.
 
 ---
 
@@ -11,7 +11,7 @@ The dataset contains 2,477 events scraped from CTFtime's [past events archive](h
 |  | Raw | Enriched |
 |--|-----|----------|
 | **File** | `ctftime_archive_all.csv` | `ctftime_archive_all_enriched.csv` |
-| **Rows** | 2,477 | 2,380 |
+| **Rows** | 2,478 | 2,380 |
 | **Columns** | 8 | 28 |
 | **Description** | Parsed directly from CTFtime | Cleaned, standardized, with derived variables |
 
@@ -35,6 +35,7 @@ ctftime-archive/
 ├── data_dictionary.csv                    # Column descriptions and types
 ├── parse_ctf.py                           # Parser: CTFtime text -> raw CSV
 ├── enrich_ctf_data.py                     # Enrichment: raw CSV -> enriched CSV
+├── describe_data.py                       # Quick dataset summary stats
 ├── requirements.txt
 ├── CITATION.cff
 ├── LICENSE
@@ -65,11 +66,13 @@ The raw CSV has 8 columns:
 | year | 2015 |
 | date_raw | 27 Dec., 12:00 PST — 29 Dec. 2015, 12:00 PST |
 | format | Jeopardy |
-| location | On-line |
+| location | Online |
 | weight | 70.00 |
 | notes | N/A |
 
-The enriched CSV adds 20 derived columns. See `data_dictionary.csv` for the full list with types and descriptions. Key additions include:
+CTFtime lists actual city and country names for in-person events (e.g. "Moscow, Russia"). In both CSV files, these have been standardized to "Online" and "On-site" for consistency.
+
+The enriched CSV adds 20 derived columns. See `data_dictionary.csv` for the full list with types and descriptions. Additions include:
 
 - `start_date`, `end_date`, `duration_hours`, `duration_days`
 - `start_quarter`, `season`, `covid_era`
